@@ -15,7 +15,7 @@
   tags:
     - agent
 
-- - title: Приложение по автоматическому промпт инжинирунгу (APE)
+- title: Приложение по автоматическому промпт инжинирунгу (APE)
   path: content/prompt_eng.mdx
   date: 2024-11-15
   type: demo
@@ -23,4 +23,5 @@
   authors:
     - veilanexyz
   pinned_category: new
-  
+  tags:
+    - aiops
