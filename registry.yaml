@@ -15,16 +15,12 @@
   tags:
     - agent
 
-- title: Gagarin example 2
-  path: content/gagarin.mdx
-  date: 2024-11-12
-  type: guide
+- - title: Приложение по автоматическому промпт инжинирунгу (APE)
+  path: content/prompt_eng.mdx
+  date: 2024-11-15
+  type: demo
   weight: 2
   authors:
-    - all-mute
-    - all-mute2
-  tags:
-    - agent
-    - aiops
+    - veilanexyz
   pinned_category: new
   
